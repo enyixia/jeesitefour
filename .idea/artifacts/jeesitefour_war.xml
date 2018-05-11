@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jeesitefour:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jeesitefour.war">
+      <element id="artifact" artifact-name="jeesitefour:war exploded" />
+    </root>
+  </artifact>
+</component>
